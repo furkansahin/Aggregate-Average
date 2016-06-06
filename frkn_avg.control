@@ -1,0 +1,4 @@
+# frkn_avg extension
+comment = 'frkn_avg function'
+default_version = '0.0.1'
+relocatable = true
